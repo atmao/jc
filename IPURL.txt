@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_IP.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_IPv6.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/CDNym.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ips_ports.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_US.txt@108.162.198.188#US_美国
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_SG.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_HK.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_TW.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_KR.txt
+https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ip_JP.txt
+
