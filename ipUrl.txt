@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ipIP.txt
-https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ipIPv6.txt
-https://raw.githubusercontent.com/atmao/jc/refs/heads/main/CDNym.txt
-https://raw.githubusercontent.com/atmao/jc/refs/heads/main/ipUS.txt
+https://raw.githubusercontent.com/atmao/jc/main/ip_IP.txt
+https://raw.githubusercontent.com/atmao/jc/main/ip_IPv6.txt
+https://raw.githubusercontent.com/atmao/jc/main/CDNym.txt
+https://raw.githubusercontent.com/atmao/jc/main/ip_US.txt
+
