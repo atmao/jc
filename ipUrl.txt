@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/atmao/jc/main/CDNym.txt
-https://raw.githubusercontent.com/atmao/jc/main/us.txt
+https://raw.githubusercontent.com/atmao/jc/main/ip_SG.txt
+
